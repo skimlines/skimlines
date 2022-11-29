@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skimlines
+- 👀 I’m interested in comics, games, and python.
+- 🌱 I’m currently learning python and project management.
+- 💞️ I’m looking to collaborate on games written in c++ or python esp with other coders of color!
+- 📫 How to reach me: @skimlines@noc.social on mastodon
